@@ -1,1 +1,12 @@
 # Supervised-Machine-Learning-Regression-and-Classification
+The Coursera course "Supervised Machine Learning: Regression and Classification" is a comprehensive and practical online course focusing on the foundations and techniques of supervised machine learning for regression and classification problems. This course is designed for learners with some basic knowledge of mathematics and programming, and it provides a solid understanding of fundamental concepts and practical skills needed to build predictive models using supervised learning algorithms.
+
+The course is divided into multiple modules, each covering essential topics related to regression and classification. The modules are structured logically and progressively, allowing learners to grasp concepts gradually and build upon their knowledge. Throughout the course, learners are exposed to video lectures, hands-on programming assignments, quizzes, and real-world case studies to reinforce their understanding and develop practical skills.
+
+The course introduces the fundamental concepts of supervised learning, including the distinction between regression and classification problems. Learners gain insights into various evaluation metrics and techniques used to assess the performance and accuracy of prediction models.
+
+The course then delves into regression techniques, covering linear regression, polynomial regression, regularization methods (such as Lasso and Ridge regression), and handling nonlinear relationships using techniques like decision trees and random forests. Learners also explore handling categorical variables and performing feature engineering to enhance model performance.
+
+Learners can apply the concepts taught in practical assignments throughout the course using popular programming languages like Python. They work with real-world datasets and apply regression and classification algorithms to solve problems and make predictions. This hands-on approach allows learners to gain valuable experience implementing and experimenting with different algorithms and techniques.
+
+By the end of the course, learners will have a strong foundation in supervised machine learning for regression and classification problems. They will be equipped with practical skills to develop predictive models, evaluate their performance, and make data-driven decisions. This course provides learners with the tools to approach real-world problems and make accurate predictions by leveraging the power of supervised machine learning.
